@@ -1,0 +1,15 @@
+/Users/ugurcanyagmur/Projects/Circle/bin/Debug/net6.0/Circle
+/Users/ugurcanyagmur/Projects/Circle/bin/Debug/net6.0/Circle.deps.json
+/Users/ugurcanyagmur/Projects/Circle/bin/Debug/net6.0/Circle.runtimeconfig.json
+/Users/ugurcanyagmur/Projects/Circle/bin/Debug/net6.0/Circle.dll
+/Users/ugurcanyagmur/Projects/Circle/bin/Debug/net6.0/Circle.pdb
+/Users/ugurcanyagmur/Projects/Circle/obj/Debug/net6.0/Circle.csproj.AssemblyReference.cache
+/Users/ugurcanyagmur/Projects/Circle/obj/Debug/net6.0/Circle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ugurcanyagmur/Projects/Circle/obj/Debug/net6.0/Circle.AssemblyInfoInputs.cache
+/Users/ugurcanyagmur/Projects/Circle/obj/Debug/net6.0/Circle.AssemblyInfo.cs
+/Users/ugurcanyagmur/Projects/Circle/obj/Debug/net6.0/Circle.csproj.CoreCompileInputs.cache
+/Users/ugurcanyagmur/Projects/Circle/obj/Debug/net6.0/Circle.dll
+/Users/ugurcanyagmur/Projects/Circle/obj/Debug/net6.0/refint/Circle.dll
+/Users/ugurcanyagmur/Projects/Circle/obj/Debug/net6.0/Circle.pdb
+/Users/ugurcanyagmur/Projects/Circle/obj/Debug/net6.0/Circle.genruntimeconfig.cache
+/Users/ugurcanyagmur/Projects/Circle/obj/Debug/net6.0/ref/Circle.dll
